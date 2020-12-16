@@ -96,6 +96,8 @@ int main() {
 		}
 
 		cout << "Byebye" << endl;
+		string a;
+		cin >> a;
 	}
 	else {
 		return 0;
